@@ -1,0 +1,37 @@
+{
+   "ID" : -1,
+   "NAME" : "params",
+   "SUBVIEWS" : [
+      {
+         "ALPHA" : 1,
+         "BLUE" : 0.80804944038391113,
+         "GREEN" : 0.80804944038391113,
+         "ID" : 1,
+         "NAME" : "BACKGROUND COLOR",
+         "RED" : 0.80804944038391113,
+         "TYPE" : "ColorPicker"
+      },
+      {
+         "ID" : 2,
+         "NAME" : "rotation",
+         "TYPE" : "Slider",
+         "VALUE" : 0
+      },
+      {
+         "ID" : 3,
+         "NAME" : "size",
+         "TYPE" : "Slider",
+         "VALUE" : 1.2254902124404907
+      },
+      {
+         "ID" : 4,
+         "NAME" : "brightness",
+         "TYPE" : "Slider",
+         "VALUE" : 1
+      }
+   ],
+   "TYPE" : "WindowCanvas",
+   "VALID" : true,
+   "XPOS" : 503,
+   "YPOS" : 363
+}

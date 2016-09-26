@@ -1,0 +1,55 @@
+{
+   "ID" : -1,
+   "NAME" : "params",
+   "SUBVIEWS" : [
+      {
+         "ALPHA" : 1,
+         "BLUE" : 0.80804944038391113,
+         "GREEN" : 0.80804944038391113,
+         "ID" : 1,
+         "NAME" : "BACKGROUND COLOR",
+         "RED" : 0.80804944038391113,
+         "TYPE" : "ColorPicker"
+      },
+      {
+         "ID" : 2,
+         "NAME" : "numberOfCircles",
+         "TYPE" : "Slider",
+         "VALUE" : 1.1990195512771606
+      },
+      {
+         "ID" : 3,
+         "NAME" : "innerRadius",
+         "TYPE" : "Slider",
+         "VALUE" : 0.17647059261798859
+      },
+      {
+         "ID" : 4,
+         "NAME" : "lineWidth",
+         "TYPE" : "Slider",
+         "VALUE" : 0.072549022734165192
+      },
+      {
+         "ID" : 5,
+         "NAME" : "lineWidth2",
+         "TYPE" : "Slider",
+         "VALUE" : 0.078431375324726105
+      },
+      {
+         "ID" : 6,
+         "NAME" : "wiggleFactor",
+         "TYPE" : "Slider",
+         "VALUE" : 4
+      },
+      {
+         "ID" : 7,
+         "NAME" : "speed",
+         "TYPE" : "Slider",
+         "VALUE" : 2.7450981140136719
+      }
+   ],
+   "TYPE" : "WindowCanvas",
+   "VALID" : true,
+   "XPOS" : 517,
+   "YPOS" : 125
+}

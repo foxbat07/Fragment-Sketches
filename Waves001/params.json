@@ -1,0 +1,29 @@
+{
+   "ID" : -1,
+   "NAME" : "params",
+   "SUBVIEWS" : [
+      {
+         "ALPHA" : 1,
+         "BLUE" : 0,
+         "GREEN" : 0,
+         "ID" : 1,
+         "NAME" : "BACKGROUND COLOR",
+         "RED" : 0,
+         "TYPE" : "ColorPicker"
+      },
+      {
+         "ID" : 2,
+         "NAME" : "UNIFORMS",
+         "TYPE" : "MultiSlider",
+         "contrast" : 10.039216041564941,
+         "frequence" : 13.176470756530762,
+         "palette" : 0,
+         "power" : 0.35294118523597717,
+         "timeScale" : 1.3529411554336548
+      }
+   ],
+   "TYPE" : "WindowCanvas",
+   "VALID" : true,
+   "XPOS" : 501,
+   "YPOS" : 89
+}

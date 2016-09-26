@@ -1,0 +1,49 @@
+{
+   "ID" : -1,
+   "NAME" : "params",
+   "SUBVIEWS" : [
+      {
+         "ALPHA" : 1,
+         "BLUE" : 0.80804944038391113,
+         "GREEN" : 0.80804944038391113,
+         "ID" : 1,
+         "NAME" : "BACKGROUND COLOR",
+         "RED" : 0.80804944038391113,
+         "TYPE" : "ColorPicker"
+      },
+      {
+         "ID" : 2,
+         "NAME" : "speed-X",
+         "TYPE" : "Slider",
+         "VALUE" : 20.588235855102539
+      },
+      {
+         "ID" : 3,
+         "NAME" : "speed-Y",
+         "TYPE" : "Slider",
+         "VALUE" : 20.588235855102539
+      },
+      {
+         "ID" : 4,
+         "NAME" : "grain",
+         "TYPE" : "Slider",
+         "VALUE" : 1.9688235521316528
+      },
+      {
+         "ID" : 5,
+         "NAME" : "nThreshold",
+         "TYPE" : "Slider",
+         "VALUE" : 0.58333331346511841
+      },
+      {
+         "ID" : 6,
+         "NAME" : "nLevel",
+         "TYPE" : "Slider",
+         "VALUE" : 0.84313726425170898
+      }
+   ],
+   "TYPE" : "WindowCanvas",
+   "VALID" : true,
+   "XPOS" : 505,
+   "YPOS" : 143
+}
